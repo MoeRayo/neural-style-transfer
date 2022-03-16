@@ -1,5 +1,7 @@
 <template>
-  <div></div>
+  <div class="ph3">
+    <GalleryHeader />
+  </div>
 </template>
 
 <script>
